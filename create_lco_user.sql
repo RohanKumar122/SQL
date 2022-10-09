@@ -1,0 +1,38 @@
+-- Create database lco_user;
+-- use lco_user;
+
+-- CREATE TABLE students(
+--     student_id INT NOT NULL AUTO_INCREMENT,
+--     email VARCHAR(60),
+--     stu_fname VARCHAR(60),
+--     stu_lname VARCHAR(60),
+--     login_count INT,
+--     course_count INT,
+--     signup_month INT,
+--     PRIMARY KEY (student_id)
+-- );
+
+-- INSERT INTO students(
+--     email,stu_fname,stu_lname,login_count,course_count,signup_month
+-- )
+-- VALUES
+-- ('yogesh@gmail.com','yogesh','kumar',23,5,7),
+-- ('anshus@gmail.com','Anshu','Sharma',8,2,3),
+-- ('Suryare@gmail.com','Surya','Reddy',28,5,8),
+-- ('ravis@gmail.com','Ravi','Sharma',15,7,4),
+-- ('aReallylonglikeReallyLongEmail@gmail.com','tom','broody',15,7,4),
+-- ('akki@gmail.com','akki','swarup',35,8,1),
+-- ('gurk@gmail.com','gur','karam',18,3,9),
+-- ('keertib@yahoo.com','keerti','balan',38,13,12),
+-- ('piyushc@gmail.com','piyush','chauhan',9,3,7),
+-- ('satisak@gmail.com','satish','karnati',39,13,9),
+-- ('dinesh@gmail.com','dinesh','sharma',9,1,12),
+-- ('mukeshv@gmail.com','Mukesh','Verma',17,4,11),
+-- ('mukeshv@gmail.com','Mukesh','Verma',17,4,11),
+-- ('hemans@gmail.com','hemant','Singh',37,14,10),
+-- ('hemans@gmail.com','hemant','Singh',37,14,10),
+-- ('priyala@gmail.com','priyala','aryan',19,5,9),
+-- ('snigdh@gmail.com','snigdha','prashad',19,5,9),
+-- ('mikeg@gmail.com','mike','george',39,15,4),
+-- ('manon@gmail.com','manon','lea',27,6,7),
+-- ('pauline@gmail.com','pauline','lucas',15,1,8);
